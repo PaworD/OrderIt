@@ -1,6 +1,6 @@
-# store
+# Order Panel
 
-> Store - new era of shops!
+> Administrator panel for cafeteries and markets!
 
 ## Build Setup
 

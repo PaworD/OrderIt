@@ -2,7 +2,7 @@
 
 > Administrator panel for cafeteries and markets!
 
-![alt text](https://raw.githubusercontent.com/PaworD/OrderIt/src/assets/img_for_git.png)
+![alt text](https://raw.githubusercontent.com/PaworD/OrderIt/master/src/assets/img_for_git.png)
 
 ## Build Setup
 

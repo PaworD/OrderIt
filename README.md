@@ -1,7 +1,9 @@
 # Order Panel
 
 > Administrator panel for cafeteries and markets!
-
+>
+## Launch properties
+> Best experience in Opera, Chrome and Mozilla Firefox
 
 ## Build Setup
 

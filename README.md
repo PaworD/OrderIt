@@ -17,5 +17,9 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+## Possible issues
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> Unfortunately mobile application for ordering is not working for today. So checking all feautures of this web app is not allowed , so it > requires orders to work with. 
+
+> This application is my very first application written in vue, so if you find some issues or complexities please let me know
+> Thank you !
